@@ -1,3 +1,16 @@
+```
+                {{{{{{{{
+                I ^  ^ I
+               CI @  @ ID
+            __  I  .L  I  __       
+          _I  I \  ~~  / I  I_
+         I I  I  ______  I  I I
+   []    I I__I          I__I I    []
+  [ ]    I I  Io        oI  I I    [ ]
+ [  ]======OOOO==========OOOO======[  ]
+  [ ]    I___I__\      /__I___I    [ ]
+   []    (______)      (_______)   []
+```
 # weight-selector
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.

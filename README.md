@@ -1,17 +1,12 @@
 ```
-                {{{{{{{{
-                I ^  ^ I
-               CI @  @ ID
-            __  I  .L  I  __       
-          _I  I \  ~~  / I  I_
-         I I  I  ______  I  I I
-   []    I I__I          I__I I    []
-  [ ]    I I  Io        oI  I I    [ ]
- [  ]======OOOO==========OOOO======[  ]
-  [ ]    I___I__\      /__I___I    [ ]
-   []    (______)      (_______)   []
+ __    __     _       _     _     __      _           _             
+/ / /\ \ \___(_) __ _| |__ | |_  / _\ ___| | ___  ___| |_ ___  _ __ 
+\ \/  \/ / _ \ |/ _` | '_ \| __| \ \ / _ \ |/ _ \/ __| __/ _ \| '__|
+ \  /\  /  __/ | (_| | | | | |_  _\ \  __/ |  __/ (__| || (_) | |   
+  \/  \/ \___|_|\__, |_| |_|\__| \__/\___|_|\___|\___|\__\___/|_|   
+                |___/                                               
 ```
-# weight-selector
+[Demo](https://jeffholst.github.io/weight-selector/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
@@ -38,3 +33,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+```
+                {{{{{{{{
+                I ^  ^ I
+               CI @  @ ID
+            __  I  .L  I  __       
+          _I  I \  ~~  / I  I_
+         I I  I  ______  I  I I
+   []    I I__I          I__I I    []
+  [ ]    I I  Io        oI  I I    [ ]
+ [  ]======OOOO==========OOOO======[  ]
+  [ ]    I___I__\      /__I___I    [ ]
+   []    (______)      (_______)   []
+```
